@@ -1,0 +1,30 @@
+.menu-image {
+    width: 25%;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid black;
+    border-radius: 33%;
+    margin-top: 25px;
+}
+
+.menu-image-expand {
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid black;
+    border-radius: 33%;
+    margin-top: 25px;
+}
+
+.veg {
+    color: greenyellow;
+}
+
+.spice {
+    color: #c31a1a;
+}
+
+.card {
+    background: #3d143685;
+    color: wheat;
+}
