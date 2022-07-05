@@ -1,6 +1,6 @@
 .nav-bar {
-    background: white !important;
-    border-bottom: 3px solid #cb6ce6 !important;
+    background: #cb6ce6 !important;
+    border-bottom: 3px solid white !important;
 }
 
 .menu-bar {
