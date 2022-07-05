@@ -39,9 +39,9 @@ hr {
 
 .nav-bar {
     height: 180px;
-    background-color: white;
+    background-color: #cb6ce6;
     color: black;
-    border-bottom: 3px solid goldenrod;
+    border-bottom: 3px solid white;
 }
 
 .title {
